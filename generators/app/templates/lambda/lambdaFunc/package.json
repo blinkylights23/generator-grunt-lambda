@@ -1,0 +1,16 @@
+{
+  "name": "<%= name %>",
+  "version": "<%= version %>",
+  "author": "<%= author %>",
+  "description": "<%= description %>",
+  "dependencies": {
+    "native-promise-only": "*"
+  },
+  "bundleDependencies": [
+    "aws-sdk",
+    "native-promise-only"
+  ],
+  "engines": {
+    "node": "6.x.x"
+  }
+}
