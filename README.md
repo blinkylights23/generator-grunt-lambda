@@ -1,4 +1,4 @@
-# generator-grunt-lambda [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-grunt-lambda
 > Manage Node.js AWS Lambda functions with Grunt
 
 ## Installation
@@ -26,11 +26,3 @@ yo grunt-lambda
 ## License
 
 MIT © [Paul Smith]()
-
-
-[npm-image]: https://badge.fury.io/js/generator-grunt-lambda.svg
-[npm-url]: https://npmjs.org/package/generator-grunt-lambda
-[travis-image]: https://travis-ci.org/blinkylights23/generator-grunt-lambda.svg?branch=master
-[travis-url]: https://travis-ci.org/blinkylights23/generator-grunt-lambda
-[daviddm-image]: https://david-dm.org/blinkylights23/generator-grunt-lambda.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/blinkylights23/generator-grunt-lambda
